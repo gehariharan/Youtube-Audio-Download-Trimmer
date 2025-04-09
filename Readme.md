@@ -30,4 +30,9 @@ A simple Python script to download audio from YouTube videos and optionally trim
 
 ## Usage
 
-Run the script:
+Before running the script - Update the DEFAULT_DOWNLOAD_FOLDER  Path
+Run the script
+
+## Disclaimer
+
+This project is intended for educational and personal use only. Downloading copyrighted material from YouTube without permission is against YouTube's Terms of Service and may also be illegal in your country. Please ensure that you have the right to download and use the content before doing so.
