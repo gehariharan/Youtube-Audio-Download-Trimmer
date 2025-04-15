@@ -5,7 +5,7 @@ import subprocess
 from datetime import timedelta
 
 # Default download folder - change this to your preferred location
-DEFAULT_DOWNLOAD_FOLDER = "C:\\Users\\.."
+DEFAULT_DOWNLOAD_FOLDER = "C:\\Users\\hariragu\\Downloads\\"
 
 # downloads yt_url to the configured download directory with optional trimming
 def download_audio(yt_url, output_path=None, start_time=None, end_time=None):
